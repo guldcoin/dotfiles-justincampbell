@@ -1,0 +1,11 @@
+[user]
+	username = justincampbell
+	website = justincampbell.me
+	name = Justin Campbell
+	location = West Chester, PA
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = justincampbell
+	twitter = justincampbell
+	github = justincampbell
